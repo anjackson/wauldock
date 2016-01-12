@@ -1,3 +1,8 @@
+NOTICE
+======
+
+Development of these components has moved to https://github.com/ukwa/wren and related repositories.
+
 Wauldock
 ========
 
